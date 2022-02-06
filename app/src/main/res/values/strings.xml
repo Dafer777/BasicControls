@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Use of basic controls</string>
+    <string name="titutlo">Basic Controls</string>
+    <string name="nombre">Name</string>
+    <string name="enviarDatos">Print Name</string>
+</resources>
